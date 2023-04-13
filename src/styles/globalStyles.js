@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
   }
   
   body{
-    background: ${({theme}) => theme.COLORS.RED};
+    background: ${({theme}) => theme.COLORS.GRAY_100};
 
     -webkit-font-smoothing: antialiased;
   }
