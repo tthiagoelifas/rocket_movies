@@ -15,6 +15,7 @@ const GlobalStyle = createGlobalStyle`
     background: ${({theme}) => theme.COLORS.BACKGROUND_800};
 
     -webkit-font-smoothing: antialiased;
+    
   }
 
 `;

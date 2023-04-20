@@ -1,10 +1,9 @@
-import { TitlePink } from "../TitlePink";
 import { Container } from "./styles";
 
-export function Header(){
+export function TitlePink(){
   return(
     <Container>
-     <TitlePink />
+      <h1>RocketMovies</h1>
     </Container>
   )
 }
